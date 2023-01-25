@@ -31,7 +31,7 @@ plain text.
 - Librarian can manage and add the books.
 - The system should notify the user and librarian about the overdue books.
 - The system calculates the fine for overdue books on their return.
-
+- A user can login using their email id and password.
 
 
 # => NON - FUNCTIONAL REQUIREMENTS : 
@@ -54,17 +54,16 @@ for Android with low-latency so that it works in real-time for use.
 
 # ANSWER :
 
-
-
 # => Features : 
 
 
 - The app allow tracking hearing status over time and can also be linked to decision-support resources that encourage users to act on hearing loss.
 - The  approach is used considered on the distension vibration that notifies the user of incoming messages or calls in their mobile. 
 - Aware of the usage of sign language as the hearing-impaired communication language, technology should be an aid for interpreting the language into easier understandable manner for people who could not understand sign language, thus to enable them to be able to communicate with  others  will  be  made  easier  if  proper  communication medium is available through mobile phones. This will also help in  overcoming  barriers  aced  by  hearing-impaired communicating with  hearing people.
-- Audio is considered to be a less significance aspect of user since they are likely to  hear, but  using audio could be added  advantage when the application is focused for communication between the hearing-impaired and normal people-
+- Audio is considered to be a less significance aspect of user since they are likely to  hear, but  using audio could be added  advantage when the application is focused for communication between the hearing-impaired and normal people.
 -  Hearing-impaired might needs an application that  could attract  them and  one of  the criteria  is animation. Animation is an important aspect to be considered for hearing-impaired application (Adamo-Villani, 2007; Zhou et al., 2012). It will help the mind to relate graphic and it could enable the curiosity among these slow learners to utilize the application. While usage of text (captioning) on the other hand is important for  creating a  relationship between  the animation  and video would enable the learner to enjoy the learning process and make them engaged towards the application.
 - Four main requirements that generally used in mobile development which are: 1) Consistent 2) Offline and online operations 3) Seamless connectivity 4) Multi-platform supports 5) Optimized power use and performance. 
+
 
 # => Scope : 
 
