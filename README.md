@@ -21,7 +21,9 @@ large extent, care should be taken no confidential information (eg., passwords) 
 plain text.
 
 
-=> FUNCTIONAL REQUIREMENTS : - 
+**ANSWER : **
+
+**=> FUNCTIONAL REQUIREMENTS : - **
 
 - A user can issue and return the book in the LIS.
 - The system enables a member to extend the date of his borrowing.
@@ -32,7 +34,7 @@ plain text.
 
 
 
-=> NON - FUNCTIONAL REQUIREMENTS : - 
+**=> NON - FUNCTIONAL REQUIREMENTS : - **
 
 - Performance :  The Server would be able to perform desired tasks in reasonable unit of time.
 - Reliability : updating the database by synchronizing between database and application.
@@ -41,16 +43,38 @@ plain text.
 - Maintainability : The system would be easy to maintain and extend.
 
 
-Q.2. Identify scope, features and non-functional aspects of the following problem.
+**Q.2. Identify scope, features and non-functional aspects of the following problem.
 Approximately 5% of the world population (or a staggering 466 million people) suffers from
 disabling hearing loss. We set out to create an impactful solution for this community that
 addresses some of their everyday needs. Our mobile application uses artificial intelligence to
 recognize key sound events of interest to this community, such as car horns and babies,
 where immediate alerts and continual logging are critical for the user. This app is optimized
 for Android with low-latency so that it works in real-time for use.
+**
+
+ANSWER :
+
 
 => Scope : 
-  
+
+- This mobile  application basically  assist  hearing-impaired  in many  ways  such  as  for learning, communication, teaching, religious and gaming.
+- Aware of the usage of sign language as the hearing-impaired communication language, technology should be an aid for interpreting the language into easier understandable manner for people who could not understand sign language, thus to enable them to be able to communicate with  others  will  be  made  easier  if  proper  communication medium is available through mobile phones. This will also help in  overcoming  barriers  aced  by  hearing-impaired communicating with  hearing people.
+
+
 => Features : 
+
+
+- The app allow tracking hearing status over time and can also be linked to decision-support resources that encourage users to act on hearing loss.
+
 => Non-functional apects : 
+
+- The  approach is  used considered on the distension vibration that notifies the user of incoming messages or calls in their mobile. This could alert them easily  since the  hearing-impaired could  not hear the  sound that comes  from their mobiles.  The vibration mode was also used in different ways such as lesser, higher and pattern  mode.  This  vibration  mode  is  able  to  be  adjusted according  to the  level of  hearing loss problem  faced by  the user.
+- Audio is considered to be a less significance aspect of hearing-impaired since they are likely to  hear, but  using audio could be added  advantage when the application is focused for communication between the hearing-impaired and normal people.
+- 
+
+=> Non functional requirements :
+
+- Accessibility
+- Affordability
+- Advanced sensors
 
